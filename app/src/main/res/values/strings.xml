@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JSON Builder</string>
+    <string name="nav_builder">Builder</string>
+    <string name="nav_json">JSON</string>
+    <string name="nav_projects">Projects</string>
+    <string name="action_save">Save Project</string>
+    <string name="action_export">Export .json</string>
+    <string name="action_import">Import .json</string>
+    <string name="action_copy">Copy JSON</string>
+    <string name="action_share">Share JSON</string>
+    <string name="action_add_field">Add Field</string>
+    <string name="action_add_record">Add Record</string>
+    <string name="action_add_item">Add Item</string>
+    <string name="status_valid_json">Valid JSON</string>
+    <string name="status_invalid_json">Invalid JSON</string>
+    <string name="error_invalid_number">Enter a valid number (e.g., 25 or 3.14)</string>
+    <string name="error_duplicate_key">Duplicate key in this object</string>
+    <string name="error_empty_key">Key cannot be empty</string>
+</resources>

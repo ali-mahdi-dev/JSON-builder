@@ -1,0 +1,6 @@
+{
+  "name": "JSON Builder",
+  "description": "Offline visual JSON form builder with data types, multi-record support, nested objects and arrays, real-time syntax-highlighted preview, local project storage, and .json import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
